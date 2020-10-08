@@ -1,0 +1,2 @@
+Mit was für einer wahrscheinlichkeit soll das Array gefüllt werden? 33
+Wieviele Generationen sollen simuliert werden? 99999
